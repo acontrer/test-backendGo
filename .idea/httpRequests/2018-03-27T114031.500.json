@@ -1,0 +1,3 @@
+{
+  "message": "pq: null value in column \"truck_number\" violates not-null constraint"
+}

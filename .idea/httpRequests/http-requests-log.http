@@ -1,0 +1,400 @@
+GET http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T022039.200.json
+
+###
+
+GET http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T021937.200.json
+
+###
+
+GET http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T021932.200.json
+
+###
+
+GET http://localhost:3000/api/v1/todos/83?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T021926.404.json
+
+###
+
+GET http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T021921.200.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T013348.400.txt
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T122007.400.txt
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T121938.400.txt
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T121901.400.txt
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T114031.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T113842.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T110522.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T110148.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T110111.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T105945.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number='111222'
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T105925.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T105900.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T105645.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T105643.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T105425.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T105156.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T104521.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T104520.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T104519-1.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T104519.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T104206.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-27T103953.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T053559-1.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T053559.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T053558.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T053533.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T053232.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T053231-2.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T053231-1.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T053231.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T053230.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T053159.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T053158.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T052513-1.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T052513.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T052512-2.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T052512-1.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T052512.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T052511-2.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T052511-1.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T052511.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T052509.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T051926.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T051823.500.json
+
+###
+
+POST http://localhost:3000/api/v1/todos?truck_number=111222
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-26T051822.500.json
+
+###
+
